@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Confirmed working
+          Confirmed working, whats the point of this anyways
         </a>
       </header>
     </div>
